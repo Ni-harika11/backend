@@ -1,0 +1,19 @@
+{
+  "name": "backemdscode",
+  "version": "1.0.0",
+  "description": "first backend  pakage with 13-05-2025",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "niharika malik",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
